@@ -1,4 +1,4 @@
-# transPDF
+# TransPDF
 Python utility for splitting PDF files by a regex pattern using Poppler Libs. Working on Windows &amp; Linux
 
 Current use case is to split pdf with multiple sub sections into multiple PDFs each named after the section.
